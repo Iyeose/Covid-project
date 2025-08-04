@@ -91,7 +91,7 @@ This project showcases how integrated data science techniques can provide meanin
 
 ## 📚 References
 
-Key references include studies from **WHO**, **ONS**, **Public Health England**, and peer-reviewed research on the impact of **socioeconomic disparities** during COVID-19. Full citations are available in the [report]().
+Key references include studies from **WHO**, **ONS**, **Public Health England**, and peer-reviewed research on the impact of **socioeconomic disparities** during COVID-19. Full citations are available in the [report](COVID-19 Death analysis.pdf).
 
 ---
 
